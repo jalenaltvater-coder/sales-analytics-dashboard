@@ -1,0 +1,301 @@
+date,region,category,product,quantity,unit_price,unit_cost
+2025-10-03,North,Office,Desk Lamp,3,38,19
+2025-01-12,North,Office,Desk Lamp,8,38,19
+2026-04-17,West,Office,Notebook,1,12,4
+2025-05-29,South,Accessories,Backpack,6,55,29
+2025-12-14,West,Electronics,Mouse,1,25,11
+2025-07-24,East,Accessories,Backpack,6,55,29
+2025-03-31,East,Office,Desk Lamp,1,38,19
+2025-08-17,East,Accessories,Backpack,7,55,29
+2025-04-26,South,Office,Desk Lamp,3,38,19
+2025-11-17,West,Accessories,Backpack,1,55,29
+2025-06-25,East,Accessories,Backpack,7,55,29
+2026-03-05,South,Accessories,Backpack,8,55,29
+2026-01-29,East,Accessories,Backpack,2,55,29
+2025-09-25,North,Electronics,Mouse,6,25,11
+2025-11-14,East,Office,Desk Lamp,5,38,19
+2025-12-10,North,Electronics,Mouse,6,25,11
+2026-08-10,West,Accessories,Backpack,1,55,29
+2026-03-17,East,Office,Desk Lamp,1,38,19
+2026-03-14,East,Electronics,Mouse,7,25,11
+2025-04-16,West,Electronics,Mouse,3,25,11
+2025-10-08,East,Electronics,Keyboard,7,45,25
+2026-05-26,North,Office,Notebook,1,12,4
+2026-04-16,North,Accessories,Backpack,4,55,29
+2025-10-16,South,Office,Notebook,8,12,4
+2025-09-03,West,Office,Desk Lamp,8,38,19
+2026-01-08,West,Accessories,Backpack,4,55,29
+2025-01-07,North,Electronics,Mouse,6,25,11
+2025-09-05,East,Electronics,Mouse,1,25,11
+2025-04-29,North,Electronics,Mouse,3,25,11
+2025-11-27,North,Electronics,Keyboard,2,45,25
+2026-06-24,South,Electronics,Mouse,8,25,11
+2025-09-26,South,Office,Notebook,3,12,4
+2025-10-26,East,Office,Desk Lamp,5,38,19
+2026-06-12,South,Office,Notebook,4,12,4
+2026-06-18,North,Office,Notebook,1,12,4
+2025-01-28,West,Electronics,Keyboard,5,45,25
+2025-05-22,West,Office,Desk Lamp,4,38,19
+2026-04-29,East,Office,Desk Lamp,5,38,19
+2026-03-04,South,Electronics,Keyboard,2,45,25
+2025-07-23,North,Office,Desk Lamp,6,38,19
+2026-07-31,West,Office,Desk Lamp,1,38,19
+2025-02-01,East,Electronics,Mouse,2,25,11
+2026-07-02,West,Office,Desk Lamp,7,38,19
+2025-12-28,West,Electronics,Keyboard,5,45,25
+2026-07-09,South,Office,Notebook,2,12,4
+2026-07-02,South,Electronics,Mouse,4,25,11
+2026-02-21,North,Electronics,Keyboard,6,45,25
+2025-12-07,West,Electronics,Keyboard,2,45,25
+2025-11-15,West,Office,Notebook,7,12,4
+2025-06-30,East,Office,Notebook,4,12,4
+2026-03-31,South,Office,Desk Lamp,3,38,19
+2026-09-01,North,Electronics,Keyboard,8,45,25
+2025-12-02,East,Electronics,Mouse,4,25,11
+2026-01-04,North,Electronics,Keyboard,5,45,25
+2026-03-19,North,Electronics,Mouse,4,25,11
+2025-05-31,North,Accessories,Backpack,3,55,29
+2026-04-21,South,Accessories,Backpack,4,55,29
+2026-04-16,East,Office,Desk Lamp,4,38,19
+2026-07-05,South,Office,Desk Lamp,8,38,19
+2025-04-19,North,Electronics,Keyboard,6,45,25
+2025-11-26,South,Electronics,Keyboard,6,45,25
+2025-06-24,West,Office,Notebook,8,12,4
+2026-07-12,West,Electronics,Mouse,5,25,11
+2025-02-17,South,Office,Desk Lamp,6,38,19
+2026-02-23,North,Office,Notebook,7,12,4
+2025-11-25,West,Accessories,Backpack,3,55,29
+2025-02-03,South,Office,Notebook,7,12,4
+2025-09-27,North,Office,Desk Lamp,7,38,19
+2026-05-20,South,Office,Desk Lamp,7,38,19
+2025-06-23,West,Electronics,Mouse,5,25,11
+2025-10-02,East,Electronics,Keyboard,6,45,25
+2025-05-21,North,Office,Notebook,4,12,4
+2026-07-23,North,Electronics,Keyboard,1,45,25
+2025-06-25,West,Electronics,Keyboard,3,45,25
+2025-10-31,West,Electronics,Mouse,3,25,11
+2026-07-14,East,Office,Notebook,2,12,4
+2026-05-26,West,Office,Notebook,8,12,4
+2026-06-25,East,Electronics,Keyboard,3,45,25
+2026-06-02,South,Office,Desk Lamp,5,38,19
+2025-12-31,South,Office,Desk Lamp,7,38,19
+2025-01-29,North,Accessories,Backpack,1,55,29
+2026-05-19,North,Electronics,Mouse,2,25,11
+2026-07-16,South,Office,Desk Lamp,6,38,19
+2025-05-13,North,Electronics,Keyboard,1,45,25
+2025-04-21,South,Electronics,Mouse,2,25,11
+2025-01-09,West,Electronics,Keyboard,1,45,25
+2026-08-02,East,Electronics,Keyboard,4,45,25
+2026-05-02,West,Accessories,Backpack,8,55,29
+2026-03-10,North,Office,Notebook,4,12,4
+2025-03-31,North,Office,Desk Lamp,1,38,19
+2025-05-26,North,Office,Notebook,2,12,4
+2026-09-07,West,Office,Desk Lamp,5,38,19
+2025-07-22,West,Electronics,Keyboard,2,45,25
+2026-03-23,North,Office,Desk Lamp,7,38,19
+2025-12-14,South,Office,Notebook,8,12,4
+2025-07-19,North,Office,Notebook,2,12,4
+2025-12-16,South,Electronics,Mouse,5,25,11
+2026-08-01,West,Accessories,Backpack,8,55,29
+2025-09-16,North,Office,Notebook,7,12,4
+2025-05-03,South,Electronics,Keyboard,3,45,25
+2026-07-16,West,Office,Notebook,5,12,4
+2025-12-10,North,Office,Desk Lamp,6,38,19
+2025-12-05,South,Office,Notebook,2,12,4
+2026-02-14,West,Electronics,Mouse,6,25,11
+2026-01-11,North,Accessories,Backpack,3,55,29
+2025-12-11,North,Office,Notebook,7,12,4
+2026-06-13,North,Electronics,Keyboard,2,45,25
+2025-04-14,North,Accessories,Backpack,3,55,29
+2025-04-03,North,Office,Desk Lamp,3,38,19
+2025-08-23,North,Office,Desk Lamp,2,38,19
+2025-07-12,West,Electronics,Mouse,5,25,11
+2025-08-06,West,Electronics,Keyboard,8,45,25
+2026-04-15,West,Office,Notebook,8,12,4
+2026-03-28,South,Office,Desk Lamp,7,38,19
+2025-10-07,West,Office,Notebook,4,12,4
+2026-06-23,South,Accessories,Backpack,6,55,29
+2026-02-13,North,Office,Notebook,3,12,4
+2025-03-18,North,Electronics,Keyboard,7,45,25
+2026-05-08,West,Office,Notebook,7,12,4
+2025-11-18,West,Accessories,Backpack,5,55,29
+2026-02-28,East,Office,Desk Lamp,3,38,19
+2026-04-09,East,Electronics,Keyboard,5,45,25
+2025-06-12,West,Electronics,Mouse,2,25,11
+2026-01-24,South,Accessories,Backpack,5,55,29
+2025-04-06,West,Accessories,Backpack,3,55,29
+2026-01-25,North,Electronics,Mouse,6,25,11
+2025-05-09,West,Electronics,Mouse,2,25,11
+2025-09-24,East,Electronics,Mouse,8,25,11
+2026-05-17,West,Electronics,Keyboard,1,45,25
+2025-11-05,East,Office,Desk Lamp,8,38,19
+2026-01-03,South,Office,Desk Lamp,2,38,19
+2026-07-14,South,Electronics,Keyboard,7,45,25
+2025-01-09,North,Accessories,Backpack,7,55,29
+2025-01-25,North,Electronics,Mouse,2,25,11
+2025-10-11,North,Accessories,Backpack,4,55,29
+2026-02-22,North,Office,Notebook,7,12,4
+2025-03-24,East,Accessories,Backpack,5,55,29
+2025-10-21,North,Office,Notebook,2,12,4
+2025-02-13,East,Electronics,Keyboard,3,45,25
+2026-09-10,West,Electronics,Keyboard,3,45,25
+2026-06-30,West,Accessories,Backpack,3,55,29
+2025-12-28,West,Accessories,Backpack,7,55,29
+2025-05-29,North,Electronics,Keyboard,8,45,25
+2026-04-12,North,Accessories,Backpack,3,55,29
+2025-01-11,North,Office,Notebook,7,12,4
+2025-07-31,West,Office,Desk Lamp,1,38,19
+2025-12-30,North,Accessories,Backpack,5,55,29
+2026-05-17,North,Electronics,Keyboard,7,45,25
+2025-11-30,East,Office,Notebook,5,12,4
+2026-06-27,East,Accessories,Backpack,5,55,29
+2026-07-27,North,Accessories,Backpack,3,55,29
+2025-11-22,West,Electronics,Keyboard,4,45,25
+2025-03-31,East,Electronics,Keyboard,3,45,25
+2025-12-15,North,Office,Desk Lamp,1,38,19
+2025-08-13,North,Office,Desk Lamp,6,38,19
+2025-02-22,North,Office,Notebook,8,12,4
+2025-08-13,East,Electronics,Mouse,2,25,11
+2026-05-21,West,Office,Desk Lamp,4,38,19
+2026-07-01,South,Office,Desk Lamp,6,38,19
+2025-05-19,West,Electronics,Mouse,8,25,11
+2025-06-08,East,Office,Desk Lamp,4,38,19
+2025-08-07,West,Office,Desk Lamp,5,38,19
+2025-03-14,North,Accessories,Backpack,8,55,29
+2026-06-14,East,Office,Desk Lamp,7,38,19
+2025-07-25,West,Office,Desk Lamp,3,38,19
+2025-05-28,East,Accessories,Backpack,3,55,29
+2026-08-25,West,Office,Notebook,1,12,4
+2026-04-29,South,Electronics,Mouse,3,25,11
+2025-04-01,South,Electronics,Mouse,4,25,11
+2026-05-23,West,Electronics,Mouse,5,25,11
+2026-07-17,West,Accessories,Backpack,5,55,29
+2025-03-22,South,Office,Notebook,3,12,4
+2025-10-06,East,Accessories,Backpack,7,55,29
+2025-02-12,South,Accessories,Backpack,3,55,29
+2026-03-22,West,Electronics,Mouse,1,25,11
+2025-01-09,East,Electronics,Keyboard,3,45,25
+2025-11-03,West,Office,Desk Lamp,2,38,19
+2026-07-03,East,Office,Desk Lamp,3,38,19
+2025-03-12,West,Office,Notebook,7,12,4
+2025-12-09,East,Electronics,Keyboard,3,45,25
+2025-03-23,East,Electronics,Keyboard,5,45,25
+2025-09-27,North,Office,Notebook,6,12,4
+2026-08-22,West,Electronics,Keyboard,8,45,25
+2025-04-09,South,Accessories,Backpack,7,55,29
+2025-10-14,North,Office,Notebook,2,12,4
+2025-12-02,North,Electronics,Keyboard,4,45,25
+2025-09-20,South,Office,Notebook,8,12,4
+2025-01-05,East,Office,Notebook,2,12,4
+2025-01-08,West,Office,Desk Lamp,4,38,19
+2026-05-26,South,Office,Desk Lamp,7,38,19
+2025-04-05,West,Electronics,Keyboard,8,45,25
+2026-04-05,North,Electronics,Mouse,5,25,11
+2025-02-18,East,Electronics,Mouse,4,25,11
+2026-05-21,South,Office,Notebook,6,12,4
+2025-05-19,East,Electronics,Mouse,7,25,11
+2025-03-22,North,Electronics,Mouse,7,25,11
+2025-11-23,South,Electronics,Keyboard,5,45,25
+2025-03-19,North,Office,Notebook,6,12,4
+2025-01-22,East,Office,Notebook,6,12,4
+2025-08-30,North,Office,Desk Lamp,4,38,19
+2026-03-01,West,Electronics,Keyboard,4,45,25
+2025-01-11,West,Accessories,Backpack,5,55,29
+2025-02-22,West,Electronics,Keyboard,1,45,25
+2026-07-03,East,Office,Notebook,6,12,4
+2025-06-26,South,Electronics,Mouse,2,25,11
+2025-03-24,North,Electronics,Keyboard,8,45,25
+2025-05-21,West,Electronics,Mouse,8,25,11
+2026-03-14,East,Office,Notebook,3,12,4
+2025-11-09,South,Electronics,Mouse,2,25,11
+2025-01-29,South,Electronics,Keyboard,1,45,25
+2026-06-10,West,Electronics,Keyboard,6,45,25
+2025-11-15,West,Electronics,Keyboard,7,45,25
+2025-03-16,North,Office,Desk Lamp,2,38,19
+2026-05-14,East,Electronics,Keyboard,1,45,25
+2026-03-09,North,Office,Desk Lamp,8,38,19
+2026-03-15,West,Office,Desk Lamp,8,38,19
+2025-05-16,West,Office,Desk Lamp,1,38,19
+2025-12-04,West,Office,Desk Lamp,4,38,19
+2025-10-15,East,Office,Desk Lamp,4,38,19
+2025-07-07,East,Electronics,Mouse,3,25,11
+2026-07-28,South,Office,Desk Lamp,4,38,19
+2026-02-26,South,Accessories,Backpack,3,55,29
+2025-12-20,South,Electronics,Mouse,6,25,11
+2026-03-25,West,Electronics,Mouse,1,25,11
+2025-04-16,West,Accessories,Backpack,5,55,29
+2026-07-31,North,Office,Desk Lamp,8,38,19
+2026-04-13,South,Office,Notebook,2,12,4
+2025-01-06,East,Accessories,Backpack,2,55,29
+2026-05-28,East,Accessories,Backpack,3,55,29
+2026-06-30,East,Electronics,Mouse,1,25,11
+2026-03-19,South,Electronics,Keyboard,8,45,25
+2025-01-31,South,Accessories,Backpack,7,55,29
+2025-06-30,North,Electronics,Keyboard,1,45,25
+2026-02-13,East,Electronics,Mouse,5,25,11
+2025-10-14,South,Accessories,Backpack,4,55,29
+2025-08-01,North,Office,Desk Lamp,4,38,19
+2025-06-10,West,Electronics,Keyboard,8,45,25
+2026-04-11,West,Accessories,Backpack,3,55,29
+2026-07-08,East,Electronics,Keyboard,2,45,25
+2025-05-31,South,Accessories,Backpack,7,55,29
+2025-05-06,South,Office,Notebook,8,12,4
+2026-03-20,East,Accessories,Backpack,4,55,29
+2025-09-30,South,Electronics,Mouse,8,25,11
+2025-12-06,North,Electronics,Keyboard,1,45,25
+2025-09-03,South,Electronics,Mouse,3,25,11
+2025-02-08,South,Electronics,Keyboard,1,45,25
+2025-10-08,North,Accessories,Backpack,4,55,29
+2025-02-14,East,Electronics,Mouse,8,25,11
+2026-05-04,East,Accessories,Backpack,6,55,29
+2025-01-11,West,Electronics,Keyboard,5,45,25
+2026-05-18,West,Accessories,Backpack,3,55,29
+2026-01-19,East,Office,Desk Lamp,2,38,19
+2026-01-06,North,Office,Desk Lamp,7,38,19
+2026-08-04,South,Electronics,Mouse,6,25,11
+2025-08-15,North,Electronics,Keyboard,8,45,25
+2026-02-10,North,Electronics,Mouse,3,25,11
+2025-08-22,East,Electronics,Keyboard,4,45,25
+2026-08-21,South,Electronics,Mouse,2,25,11
+2025-04-24,East,Office,Notebook,5,12,4
+2026-05-08,West,Office,Desk Lamp,4,38,19
+2026-03-03,West,Office,Notebook,7,12,4
+2025-07-10,West,Electronics,Mouse,5,25,11
+2025-10-24,South,Office,Notebook,5,12,4
+2025-05-10,North,Office,Desk Lamp,3,38,19
+2025-07-22,West,Accessories,Backpack,4,55,29
+2025-11-29,East,Accessories,Backpack,1,55,29
+2026-09-11,East,Accessories,Backpack,8,55,29
+2025-06-28,North,Office,Desk Lamp,8,38,19
+2026-09-06,East,Accessories,Backpack,5,55,29
+2025-05-22,South,Accessories,Backpack,7,55,29
+2026-05-15,North,Office,Desk Lamp,6,38,19
+2026-04-18,North,Office,Notebook,6,12,4
+2026-06-20,East,Accessories,Backpack,8,55,29
+2026-08-12,North,Electronics,Mouse,8,25,11
+2025-12-19,West,Electronics,Keyboard,7,45,25
+2026-01-11,West,Accessories,Backpack,3,55,29
+2025-11-23,East,Accessories,Backpack,7,55,29
+2025-05-24,North,Electronics,Mouse,5,25,11
+2026-02-21,East,Accessories,Backpack,2,55,29
+2026-07-26,South,Electronics,Mouse,8,25,11
+2025-04-16,West,Office,Notebook,7,12,4
+2025-10-14,South,Office,Desk Lamp,6,38,19
+2025-08-14,East,Accessories,Backpack,6,55,29
+2025-03-29,West,Accessories,Backpack,8,55,29
+2026-03-17,South,Electronics,Keyboard,1,45,25
+2025-05-17,South,Accessories,Backpack,8,55,29
+2026-08-08,South,Office,Desk Lamp,4,38,19
+2025-08-21,South,Electronics,Mouse,5,25,11
+2026-02-21,North,Accessories,Backpack,2,55,29
+2026-02-03,North,Office,Desk Lamp,1,38,19
+2025-03-23,East,Electronics,Mouse,5,25,11
+2025-06-18,West,Electronics,Keyboard,2,45,25
+2026-05-11,West,Electronics,Keyboard,5,45,25
+2025-01-24,North,Accessories,Backpack,1,55,29
+2026-01-05,West,Office,Desk Lamp,1,38,19
+2026-06-05,North,Office,Notebook,1,12,4
+2025-12-19,South,Electronics,Keyboard,8,45,25
+2025-01-21,South,Office,Desk Lamp,7,38,19
+2025-09-15,South,Accessories,Backpack,3,55,29
+2026-06-22,South,Electronics,Keyboard,6,45,25
