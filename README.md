@@ -2,6 +2,10 @@
 
 Interactive Python data analytics project using **Pandas, Plotly, and Streamlit**.
 
+## Dashboard Preview
+
+![Sales Insights Dashboard](images/dashboard.png)
+
 ## Features
 - CSV upload and validation, cleaning, and computed revenue/profit
 - Region and category filters, monthly trends, top products, export
